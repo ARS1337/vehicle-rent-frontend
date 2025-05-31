@@ -1,0 +1,7 @@
+.blocked {
+  background-color: #ffe6e6 !important;
+  color: #b00020 !important;
+  text-decoration: line-through;
+  border-radius: 6px;
+  cursor: not-allowed;
+}
